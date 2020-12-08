@@ -88,3 +88,4 @@ pBaru.style.backgroundColor='lightgreen';
 liBaru.style.backgroundColor='lightgreen';
 h2Baru.style.backgroundColor='lightgreen';
 
+// selesai
